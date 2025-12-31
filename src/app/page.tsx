@@ -114,7 +114,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="w-full py-8 text-center text-sm text-muted-foreground border-t bg-muted/30">
         <div className="flex justify-center gap-6 mb-4">
-          <Link href="#" className="hover:text-foreground transition-colors">Política de Privacidad</Link>
+          <Link href="/privacy-policy" className="hover:text-foreground transition-colors">Política de Privacidad</Link>
           <Link href="#" className="hover:text-foreground transition-colors">Términos de Servicio</Link>
         </div>
         <p>&copy; 2025 ResiliencePro. Todos los derechos reservados.</p>
